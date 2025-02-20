@@ -1,6 +1,5 @@
 main(){
 
-
   var name = "Dart";
   print(name);
 
@@ -10,8 +9,5 @@ main(){
 
   print(a);
   print(pi);
-
-  
-
  
 }
