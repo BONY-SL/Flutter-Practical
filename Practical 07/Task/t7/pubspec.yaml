@@ -1,0 +1,30 @@
+name: t7
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  # Add assets here
+  assets:
+    - assets/food1.jpg
+    - assets/food2.jpg
+    - assets/food3.jpg
+    - assets/food4.jpg
+    - assets/food5.jpg
+    - assets/food6.jpg
